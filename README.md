@@ -1,3 +1,6 @@
+A React Frontend Project that shows the food items available in the Resturants based on the Timings 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
